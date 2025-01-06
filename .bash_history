@@ -44,3 +44,6 @@ exit
 sudo su
 clear
 sudo su
+clear
+sudo su
+exit
